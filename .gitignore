@@ -1,0 +1,10 @@
+*.blend1
+*.blend2
+*.blend3
+*.blend@
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
